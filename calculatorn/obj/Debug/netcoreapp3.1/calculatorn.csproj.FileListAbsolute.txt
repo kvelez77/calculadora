@@ -1,0 +1,14 @@
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.exe
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.deps.json
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.runtimeconfig.json
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.runtimeconfig.dev.json
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.dll
+D:\Kvelez\calculatorn\calculatorn\bin\Debug\netcoreapp3.1\calculatorn.pdb
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.csproj.AssemblyReference.cache
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.AssemblyInfoInputs.cache
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.AssemblyInfo.cs
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.csproj.CoreCompileInputs.cache
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.dll
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.pdb
+D:\Kvelez\calculatorn\calculatorn\obj\Debug\netcoreapp3.1\calculatorn.genruntimeconfig.cache
